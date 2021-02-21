@@ -1,0 +1,19 @@
+{
+  "name": "vite-vanilla",
+  "version": "1.0.0",
+  "description": "A vite vanilla demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohp/vite-vanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaohp/vite-vanilla/issues"
+  },
+  "homepage": "https://github.com/xiaohp/vite-vanilla#readme"
+}
